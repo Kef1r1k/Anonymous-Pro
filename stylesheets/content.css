@@ -1,0 +1,87 @@
+html{
+  background: black;
+}
+body {
+  margin: 0 auto;
+  padding: 0;
+  width: 1280px;
+  font-family: 'Anonymous Pro';
+  background-color: #DFE9DD;
+  color: #000000;
+}
+.main{
+  position: relative;
+}
+
+.text1{
+  padding-top: 113px;
+  padding-left: 35px;
+  font-size: 36px;
+}
+
+.img2{
+ position: absolute;
+ right: 7px;
+ top: 1615px;
+}
+
+.img3{
+  padding-left: 35px;
+  padding-top: 50px;
+  }
+.text2{
+      font-size: 24px;
+      position:absolute;
+    top: 2745px;
+      right: 100px;
+  }
+  .img5{
+    position: absolute;
+    top: 4900px;
+    right: 35px;
+  }
+  .text3{
+  padding-top: 100px;
+  padding-left: 40px;
+  font-size: 36px;
+  }
+  .img6{
+    position: absolute;
+    top: 5400px;
+    right: 190px;
+  }
+  .text4{
+    padding-top: 850px;
+    padding-left: 193px;
+    font-size: 36px;
+  }
+  .img7{
+  padding-top:80px;
+    padding-left: 40px;
+}
+  .text5{
+    position: absolute;
+    top:6700px;
+    left: 550px;
+    font-size: 24px;
+  }
+  .img8 {
+    padding-top: 50px;
+  padding-left: 104px;
+}
+.img9{
+  padding-top: 40px;
+  padding-right: 35px;
+}
+.text6{
+  position: absolute;
+  top:8040px;
+  left: 420px;
+  font-size: 48px;
+}
+.text7{
+  position: absolute;
+  top:8168px;
+  left: 630px;
+  font-size: 36px;
+}
